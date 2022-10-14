@@ -13,3 +13,6 @@ psycopg2
 
 #for loading environment variables
 python-dotenv
+
+mysql-connector-python
+mysqlclient
